@@ -17,3 +17,11 @@ O objetivo principal é entregar uma Casa Vegetativa completamente funcional, eq
 ## Cronograma
 
 ![Cronograma](CRONOGRAMA.png)
+
+## Matriz de habilidades
+
+![Matriz de habilidades](Matriz_de_habilidades.png)
+
+## Mapa de conhecimento
+
+![Mapa de conhecimento](Mapa_de_conhecimento.png)
