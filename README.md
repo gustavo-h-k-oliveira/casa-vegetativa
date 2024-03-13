@@ -15,3 +15,5 @@ O objetivo principal é entregar uma Casa Vegetativa completamente funcional, eq
 - **Integração de energia renovável**: Caso viável, incorporação de um sistema de energia alimentado por placas solares, com o objetivo de promover a sustentabilidade e reduzir a dependência de fontes convencionais de energia.
 
 ## Cronograma
+
+![Cronograma](CRONOGRAMA.png)
