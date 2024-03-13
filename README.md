@@ -1,6 +1,6 @@
 # Casa Vegetativa
 
-Este repositório apresenta o código-fonte da casa vegetativa programada em linguagem C com o **ESP32**.
+Este repositório apresenta o código-fonte da casa vegetativa programada em linguagem C com o **ESP8266**.
 
 O objetivo principal é entregar uma Casa Vegetativa completamente funcional, equipada com sensores para monitoramento de luminosidade, umidade do solo e do ar, temperatura, além de sistemas automatizados de irrigação e iluminação. Além disso, caso viável e dentro do prazo, busca-se a integração de um sistema de energia renovável, preferencialmente por meio de placas solares, para maximizar a sustentabilidade e reduzir custos operacionais.
 
