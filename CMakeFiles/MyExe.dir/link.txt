@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MyExe.dir/src/Greenhouse.cpp.o  -o MyExe   -L/workspaces/casa-vegetativa/casa-vegetativa/libraries  -Wl,-rpath,/workspaces/casa-vegetativa/casa-vegetativa/libraries -llibraries 

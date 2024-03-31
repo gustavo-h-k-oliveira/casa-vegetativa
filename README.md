@@ -25,3 +25,5 @@ O objetivo principal é entregar uma Casa Vegetativa completamente funcional, eq
 ## Mapa de conhecimento
 
 ![Mapa de conhecimento](Mapa_de_conhecimento.png)
+
+**OBS:** No dia 30/03, o código foi alterado para uma linguagem "híbrida" de C e C++.

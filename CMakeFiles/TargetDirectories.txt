@@ -1,0 +1,3 @@
+/workspaces/casa-vegetativa/CMakeFiles/rebuild_cache.dir
+/workspaces/casa-vegetativa/CMakeFiles/edit_cache.dir
+/workspaces/casa-vegetativa/CMakeFiles/MyExe.dir
